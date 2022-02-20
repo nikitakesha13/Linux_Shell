@@ -1,6 +1,3 @@
-// NAME : Nikita Udodenko
-// UIN : 729008431
-// YOUTUBE link for DEMO: https://youtu.be/Q8giexe-Gd0
 #include <iostream>
 #include <stdio.h>
 #include <unistd.h>
